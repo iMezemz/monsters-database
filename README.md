@@ -8,6 +8,7 @@ This terminal command creates a copy of the project on your local machine
 
 
 ## Run the web app
+In the project folder execute..
 ### `npm start`
 
 Runs the app in the development mode.\
