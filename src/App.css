@@ -1,9 +1,27 @@
+.ZeroOp {
+  text-align: center;
+  opacity: 0;
+}
+
+.fadeIn {
+  text-align: center;
+  opacity: 1;
+  transition: opacity 1s linear;
+}
+
+.fadeOut {
+  text-align: center;
+  opacity: 0;
+  transition: opacity 1s linear;
+}
+
+
 .App {
   text-align: center;
 }
 
 h1 {
   font-family: 'Bigelow Rules';
-  font-size: 80px;
-  color: #0ccac4;
+  font-size: 100px;
+  color: #9ef7f2;
 }
